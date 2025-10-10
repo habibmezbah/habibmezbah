@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habibmezbah
-- 👀 I’m interested in ...Software Dev, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning ... AI Engineering, LLMs, RAG, Agentic systems....I am interested in building agentic systems. My current goal is to work on the emerging field of agents- specially agent-computer interface, agent robustness, agent-human interaction. Also I'm learning 'Reinforcement learning'.
-- 💞️ I’m looking to collaborate on ... Research in the emerging field of LLM agents & creating agentic systems that solve crucial real world problems. Ultimate goal is to make it public and scale it to a business. 
+- 👀 I’m interested in ...Software Dev, Machine Learning ,Artificial Intelligence
+- 🌱 I’m currently learning ... AI Engineering, LLMs, Agentic systems, Reinforcement Learning, Generative Deep Learning....
+- 💞️ I’m looking to collaborate on ... Trending researches in ML, DL, RL, GenAI, Generative Modeling etc.
 - 📫 How to reach me ... DM me my Twitter @HabibMezbah 
 
 <!---
