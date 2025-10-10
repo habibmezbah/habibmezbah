@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habibmezbah
 - 👀 I’m interested in ...Software Dev, Machine Learning ,Artificial Intelligence
 - 🌱 I’m currently learning ... AI Engineering, LLMs, Agentic systems, Reinforcement Learning, Generative Deep Learning....
-- 💞️ I’m looking to collaborate on ... Trending researches in ML, DL, RL, GenAI, Generative Modeling etc.
+- 💞️ I’m looking to collaborate on ... Trending researches in ML, DL, RL, GenAI, Generative Deep Learning etc.
 - 📫 How to reach me ... DM me my Twitter @HabibMezbah 
 
 <!---
