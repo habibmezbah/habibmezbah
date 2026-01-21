@@ -4,7 +4,7 @@
 Software metrics, Software analytics,Testing, Usability analysis,Github mining, Reinforcement Learning in these software automation field, Flaky testing. 
 
 - 💞️ I’m looking to collaborate on ... Trending researches in ML, DL, RL, GenAI, Generative Deep Learning, AI application in Software field. 
-- 📫 How to reach me ... DM me my Twitter @HabibMezbah 
+- 📫 How to reach me ... DM me my Twitter @HabibMezbah or mail me : habibmezbahullash@gmail.com
 
 <!---
 habibmezbah/habibmezbah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
